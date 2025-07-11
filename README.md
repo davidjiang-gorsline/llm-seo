@@ -1,1 +1,1 @@
-# llm-seo
+# What does Search Engine Optimization look like with LLM
